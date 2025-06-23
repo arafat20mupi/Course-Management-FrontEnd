@@ -1,8 +1,9 @@
+import HomePage from "./Home/page";
 
 export default function Home() {
   return (
     <div>
-      Course management
+      <HomePage />
     </div>
   );
 }
